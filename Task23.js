@@ -1,0 +1,35 @@
+//Conditional Tests: Write a series of conditional tests. Print a statement describing each test and your prediction for the results of each test. Your code should look something like this:
+// • Create at least 10 tests. Have at least 5 tests evaluate to True and another 5 tests evaluate to False.
+var car = "Rolls Royce";
+console.log('Is car == "Rolls Royce"? I predict true');
+console.log(car == 'Rolls Royce');
+var myAge = 18;
+console.log("Is myAge > 16 ? I presict true");
+console.log(myAge == 18);
+var fruit = "Mango";
+console.log("Is fruit == 'Mango'? I predict true");
+console.log(fruit == "Mango");
+var country = "Turkey";
+console.log("Is country == 'Turkey'? I predict true");
+console.log(country == "Turkey");
+var sport = "cricket";
+console.log("Is sport == 'cricket'? I predict true");
+console.log(sport == "cricket");
+var temperature = 20;
+console.log("Is temperature == 20? I predict true");
+console.log(temperature == 20);
+var year = 2024;
+console.log("Is year != 2024? I predict false");
+console.log(year == 2004);
+var myBirthmonth = "september";
+console.log("Is myBirthmonth != september? I predict false");
+console.log(myBirthmonth != "september");
+var Color = "Black";
+console.log("Is Color != Black? I predict false");
+console.log(Color == "pink");
+var weather = "cloudy";
+console.log("Is weather is != cloudy? I predict false");
+console.log(weather != "cloudy");
+var watch = "Rolex";
+console.log("Is watch != Rolex? I predict false");
+console.log(watch != "Rolex");
